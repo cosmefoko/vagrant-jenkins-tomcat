@@ -8,7 +8,7 @@
 #Modified sept 2021
 
 ## Vars
-VERSION=8.5.75     ## You need to check online on this site for the version https://mirrors.ocf.berkeley.edu/apache/tomcat/tomcat-8 to replace the varibale.
+VERSION=8.5.78     ## You need to check online on this site for the version https://mirrors.ocf.berkeley.edu/apache/tomcat/tomcat-8 to replace the varibale.
 
 echo -e "\nInstalling tomcat ..\n"
 
